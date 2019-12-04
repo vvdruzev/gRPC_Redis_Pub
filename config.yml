@@ -1,0 +1,13 @@
+urls:
+  - "https://golang.org"
+  - "https://www.google.com"
+  - "https://www.bbc.co.uk"
+  - "https://www.github.com"
+  - "https://www.gitlub.com"
+  - "https://www.duckduckgo.com"
+  - "https://www.atlasian.com"
+  - "https://www.twitter.com"
+  - "https://www.facebook.com"
+mintimeout: 10
+maxtimeout: 100
+numberofrequest: 3
